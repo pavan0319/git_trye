@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    list-style: none;
+
+}
+.liste-iatem{
+    display: block;
+}
+.ul{
+    display: flex;
+    justify-content: space-around;
+}
+.liste-iatem{
+    display: flex;
+    justify-content: space-around;
+}
